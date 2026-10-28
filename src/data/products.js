@@ -1,0 +1,10 @@
+export const INVENTORY_DATA = [
+  { id: 1, name: "Paracetamol Tablets IP 650mg", brandEquivalent: "Dolo 650 / Calpol", category: "Medicines", janPrice: 15.00, marketPrice: 34.00, stock: 120, requiresRx: false, desc: "Effective relief from high fever, body pain, and headaches." },
+  { id: 2, name: "Amoxicillin & Potassium Clavulanate 625mg", brandEquivalent: "Augmentin 625 DUO", category: "Medicines", janPrice: 58.00, marketPrice: 204.00, stock: 45, requiresRx: true, desc: "Broad-spectrum antibiotic for respiratory & throat infections." },
+  { id: 3, name: "Metformin Hydrochloride SR 500mg", brandEquivalent: "Glycomet 500", category: "Medicines", janPrice: 12.50, marketPrice: 42.00, stock: 90, requiresRx: true, desc: "First-line medicine for Type 2 Diabetes management." },
+  { id: 4, name: "Atorvastatin Tablets IP 10mg", brandEquivalent: "Atorva 10 / Lipitor", category: "Medicines", janPrice: 9.00, marketPrice: 72.00, stock: 60, requiresRx: true, desc: "Lowers bad cholesterol and protects heart health." },
+  { id: 5, name: "Pantoprazole Gastro-resistant 40mg", brandEquivalent: "Pan 40 / Pantocid", category: "Medicines", janPrice: 14.00, marketPrice: 110.00, stock: 80, requiresRx: false, desc: "Relief from acidity, GERD, and stomach ulcers." },
+  { id: 6, name: "Oxymethazoline Nasal Drops 10ml", brandEquivalent: "Otrivin Adult Drops", category: "Personal Care", janPrice: 22.00, marketPrice: 95.00, stock: 35, requiresRx: false, desc: "Fast relief from blocked nose and sinus congestion." },
+  { id: 7, name: "Biodegradable Sanitary Napkins (Pack of 4)", brandEquivalent: "Suvidha Napkin", category: "Personal Care", janPrice: 4.00, marketPrice: 28.00, stock: 200, requiresRx: false, desc: "Eco-friendly, highly absorbent sanitary pads under PMBJP." },
+  { id: 8, name: "Protein Powder with Vitamins & Minerals 200g", brandEquivalent: "Protinex / Threptin", category: "Nutraceuticals", janPrice: 160.00, marketPrice: 450.00, stock: 25, requiresRx: false, desc: "Nutritional supplement for energy, immunity, and recovery." }
+];
